@@ -1,0 +1,20 @@
+[31-Jul-2021 14:41:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/gmiteeba/public_html/mentorship/ss/admin/digital.php on line 2
+[31-Jul-2021 14:41:10 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/gmiteeba/public_html/mentorship/ss/admin/digital.php on line 8
+[31-Jul-2021 14:46:16 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/gmiteeba/public_html/mentorship/ss/admin/diplomaregistration.php on line 3
+[31-Jul-2021 14:46:16 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/gmiteeba/public_html/mentorship/ss/admin/diplomaregistration.php on line 8
+[31-Jul-2021 14:47:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/gmiteeba/public_html/mentorship/ss/admin/mysy.php on line 2
+[31-Jul-2021 14:47:08 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/gmiteeba/public_html/mentorship/ss/admin/mysy.php on line 7
+[11-Oct-2021 14:40:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/gmiteeba/public_html/mentorship/ss/admin/bscregistration.php on line 2
+[11-Oct-2021 14:40:01 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/gmiteeba/public_html/mentorship/ss/admin/bscregistration.php on line 7
+[11-Oct-2021 14:46:04 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/gmiteeba/public_html/mentorship/ss/admin/diplomaregistration.php on line 3
+[11-Oct-2021 14:46:04 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/gmiteeba/public_html/mentorship/ss/admin/diplomaregistration.php on line 8
+[14-Jan-2022 09:37:19 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/gmiteeba/public_html/mentorship/ss/admin/mysy.php on line 2
+[14-Jan-2022 09:37:19 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/gmiteeba/public_html/mentorship/ss/admin/mysy.php on line 7
+[14-Jan-2022 09:37:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/gmiteeba/public_html/mentorship/ss/admin/digital.php on line 2
+[14-Jan-2022 09:37:39 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/gmiteeba/public_html/mentorship/ss/admin/digital.php on line 8
+[18-Jan-2022 12:01:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/gmiteeba/public_html/mentorship/ss/admin/diplomaregistration.php on line 3
+[18-Jan-2022 12:01:23 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/gmiteeba/public_html/mentorship/ss/admin/diplomaregistration.php on line 8
+[23-Feb-2022 10:40:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/gmiteeba/public_html/mentorship/ss/admin/mysy.php on line 2
+[23-Feb-2022 10:40:36 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/gmiteeba/public_html/mentorship/ss/admin/mysy.php on line 7
+[25-Mar-2022 02:00:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/gmiteeba/public_html/mentorship/ss/admin/mysy.php on line 2
+[25-Mar-2022 02:00:25 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/gmiteeba/public_html/mentorship/ss/admin/mysy.php on line 7

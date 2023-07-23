@@ -1,0 +1,22 @@
+#log{
+    border: 2px solid grey;
+    margin-top: 150px;
+    padding: 11px;
+    padding-top: 0px;
+    border-radius: 5px;
+    background-color: white;
+}
+
+
+.check label{
+    font-size: 20px;
+    margin-top: 10px;
+    color: whitesmoke;
+}
+
+#submit {
+    margin-top: 20px;
+    width:100%;
+}    
+
+
